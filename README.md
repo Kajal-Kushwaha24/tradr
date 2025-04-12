@@ -1,16 +1,37 @@
-# trader
+# Trader
 
-A new Flutter project.
+A simple Flutter application for tracking and analyzing stock prices.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Running the application
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository
+2. Open the project in your preferred IDE
+3. Run flutter pub get to get the dependencies
+4. Run flutter run to start the application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Track stock prices in real time
+* Analyze stock prices over time
+* View detailed information about a stock
+
+## Screenshots
+
+![Screenshot of the app](https://user-images.githubusercontent.com/123456789/123456789-12345678-12345678-12345678.png)
+
+## Contributing
+
+If you want to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create a branch for your feature
+3. Make your changes
+4. Commit your changes
+5. Push your changes to your forked repository
+6. Create a pull request to the original repository
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
